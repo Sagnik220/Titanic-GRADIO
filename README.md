@@ -29,4 +29,5 @@ While there was some element of luck involved in surviving, it seems some groups
 4. Predict Function
 5. Gradio UI Interface
 
+### Demo GRADIO Web-Application:
 <img src="screenrecording.gif">
